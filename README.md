@@ -30,18 +30,6 @@ Meu aprendizado é guiado por projetos: parto de um problema real, pesquiso o qu
   </a>
 </div>
 
-<p align="center"><strong>Pandas · Excel · SQL · openpyxl · APIs REST · PNCP API</strong></p>
-
-🚀 Projetos
-
-⚙️ Automação de balancetes — tratamento de bases, índices financeiros, validações e relatórios.
-
-🔎 Radar de licitações — busca oportunidades no PNCP e organiza o acompanhamento no Notion.
-
-📚 Compilação contábil — consolida abas mensais e monta automaticamente uma base anual de saldos.
-
-💰 SaldoClaro — organiza movimentações financeiras por categorias e dashboards.
-
 <div align="center">
   <sub>Construindo soluções reais, uma automação por vez.</sub>
 </div>
