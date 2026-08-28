@@ -1,8 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,48:0B253F,100:0EA5E9&height=165&section=header&text=Pedro%20Campos&fontSize=40&fontColor=F4FAFF&animation=fadeIn&fontAlignY=34&desc=Python%20%E2%80%A2%20Dados%20%E2%80%A2%20Automa%C3%A7%C3%A3o&descAlignY=57&descSize=16" alt="Pedro Campos — Python, Dados e Automação" />
-
 <div align="center">
 
-Transformo processos manuais em soluções simples, rápidas e confiáveis.
+<h1>Pedro Campos</h1>
+
+<p><code>while processo.manual: processo = automatizar(processo)</code></p>
+
+<strong>PYTHON · DADOS · AUTOMAÇÃO</strong>
+
+<p>Transformo processos manuais em soluções simples, rápidas e confiáveis.</p>
 
 📩 E-mail · 💻 Repositórios · 🌐 Portfólio em breve
 
@@ -16,20 +20,27 @@ Transformo processos manuais em soluções simples, rápidas e confiáveis.
 
 Sou Pedro Henrique Rodrigues Campos, desenvolvedor autodidata de Belo Horizonte, MG, com foco em Python, dados e automações. Atualmente trabalho em uma empresa de auditoria e consultoria, onde conecto programação e processos contábeis para reduzir tarefas manuais e criar soluções úteis.
 
+Meu aprendizado é guiado por projetos: parto de um problema real, pesquiso o que preciso, construo uma primeira versão, testo e refatoro até entender a solução. Foi assim que transformei estudos independentes em automações aplicadas no trabalho.
+
 🧠 Stack
 
-Principal
-🐍 Python · 🐼 Pandas · 📊 Excel · 🗃️ SQL
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,postgres,supabase,sqlite,js,ts,react,html,css,git,githubactions,notion,vscode&theme=dark&perline=13" alt="Python, PostgreSQL, Supabase, SQLite, JavaScript, TypeScript, React, HTML, CSS, Git, GitHub Actions, Notion e VS Code" />
+  </a>
+</div>
 
-Backend e dados
-🟢 Supabase · 🐘 PostgreSQL · 🪶 SQLite · 🔗 APIs
+<p align="center"><strong>Pandas · Excel · SQL · openpyxl · APIs REST · PNCP API</strong></p>
 
-Web
-🟨 JavaScript · 🔷 TypeScript · ⚛️ React · 🧱 HTML · 🎨 CSS
+🚀 Projetos
 
-Ferramentas e integrações
-⚙️ openpyxl · 🔧 Git e GitHub · 🚀 GitHub Actions · 📝 Notion ...
+⚙️ Automação de balancetes — tratamento de bases, índices financeiros, validações e relatórios.
 
+🔎 Radar de licitações — busca oportunidades no PNCP e organiza o acompanhamento no Notion.
+
+📚 Compilação contábil — consolida abas mensais e monta automaticamente uma base anual de saldos.
+
+💰 SaldoClaro — organiza movimentações financeiras por categorias e dashboards.
 
 <div align="center">
   <sub>Construindo soluções reais, uma automação por vez.</sub>
