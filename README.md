@@ -26,7 +26,7 @@ Meu aprendizado é guiado por projetos: parto de um problema real, pesquiso o qu
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,postgres,supabase,sqlite,js,ts,react,html,css,git,githubactions,notion,vscode&theme=dark&perline=13" alt="Python, PostgreSQL, Supabase, SQLite, JavaScript, HTML, CSS, Git, GitHub Actions, Notion e VS Code" />
+    <img src="https://skillicons.dev/icons?i=py,postgres,supabase,sqlite,js,html,css,git,githubactions,notion,vscode&theme=dark&perline=13" alt="Python, PostgreSQL, Supabase, SQLite, JavaScript, HTML, CSS, Git, GitHub Actions, Notion e VS Code" />
   </a>
 </div>
 
