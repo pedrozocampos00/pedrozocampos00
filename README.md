@@ -8,7 +8,7 @@
 
 <p>Transformo processos manuais em soluções simples, rápidas e confiáveis.</p>
 
-📩 E-mail · 💻 Repositórios · 🌐 Portfólio em breve
+📩 pcamposdev@hotmail.com   · 💻 Repositórios · 🌐 Portfólio em breve
 
 <!-- Quando o portfólio estiver público, substitua "🌐 Portfólio em breve" por:
 [🌐 Portfólio](https://SEU-LINK-AQUI)
